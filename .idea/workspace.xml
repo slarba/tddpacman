@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a375cf43-c0d5-4c05-9186-b469145e7e23" name="Changes" comment="add macos spesific dependency to fix threading&#10;issue">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BLOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/BLOG.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pacman" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pacman" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="pacman" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2JTCsezfW7v2F8aJNKQEnNfzZIQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Marko/IdeaProjects/tddpacman",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "run.code.analysis.last.selected.profile": "pProject Default"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.cloudamite.pacman.game" />
+    </key>
+    <key name="MoveInnerDialog.RECENTS_KEY">
+      <recent name="com.cloudamite.pacman.game" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cloudamite.pacman" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.tddpacman [run]">
+    <configuration name="GhostMotionTests" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.cloudamite.pacman.game.GhostMotionTests&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="GhostMotionTests.shouldMoveSmoothly" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.cloudamite.pacman.game.GhostMotionTests.shouldMoveSmoothly&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'com.cloudamite.pacman'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.cloudamite.pacman.*&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'com.cloudamite.pacman.game'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;com.cloudamite.pacman.game.*&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="pacman [:Launcher.main()]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":Launcher.main()" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="tddpacman [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.tddpacman [run]" />
+        <item itemvalue="Gradle.Tests in 'com.cloudamite.pacman.game'" />
+        <item itemvalue="Gradle.Tests in 'com.cloudamite.pacman'" />
+        <item itemvalue="Gradle.GhostMotionTests" />
+        <item itemvalue="Gradle.GhostMotionTests.shouldMoveSmoothly" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a375cf43-c0d5-4c05-9186-b469145e7e23" name="Changes" comment="" />
+      <created>1672092895723</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672092895723</updated>
+    </task>
+    <task id="LOCAL−00001" summary="first commit">
+      <created>1672101882762</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1672101882762</updated>
+    </task>
+    <task id="LOCAL−00002" summary="collisions, linear motion">
+      <created>1672108513731</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1672108513731</updated>
+    </task>
+    <task id="LOCAL−00003" summary="refactoring">
+      <created>1672142725664</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1672142725664</updated>
+    </task>
+    <task id="LOCAL−00004" summary="animation">
+      <created>1672147070477</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1672147070477</updated>
+    </task>
+    <task id="LOCAL−00005" summary="linear interpolation, image refactoring">
+      <created>1672148921083</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1672148921083</updated>
+    </task>
+    <task id="LOCAL−00006" summary="clean warnings">
+      <created>1672148990492</created>
+      <option name="number" value="LOCAL−00006" />
+      <option name="presentableId" value="LOCAL−00006" />
+      <updated>1672148990492</updated>
+    </task>
+    <task id="LOCAL−00007" summary="pacman direction dependent images">
+      <created>1672150917542</created>
+      <option name="number" value="LOCAL−00007" />
+      <option name="presentableId" value="LOCAL−00007" />
+      <updated>1672150917542</updated>
+    </task>
+    <task id="LOCAL−00008" summary="timer and powerpill eating">
+      <created>1672153223926</created>
+      <option name="number" value="LOCAL−00008" />
+      <option name="presentableId" value="LOCAL−00008" />
+      <updated>1672153223926</updated>
+    </task>
+    <task id="LOCAL−00009" summary="collision handling simplification, pill eating">
+      <created>1672156724772</created>
+      <option name="number" value="LOCAL−00009" />
+      <option name="presentableId" value="LOCAL−00009" />
+      <updated>1672156724772</updated>
+    </task>
+    <task id="LOCAL−00010" summary="refactoring">
+      <created>1672158190478</created>
+      <option name="number" value="LOCAL−00010" />
+      <option name="presentableId" value="LOCAL−00010" />
+      <updated>1672158190478</updated>
+    </task>
+    <task id="LOCAL−00011" summary="maze test">
+      <created>1672168903464</created>
+      <option name="number" value="LOCAL−00011" />
+      <option name="presentableId" value="LOCAL−00011" />
+      <updated>1672168903464</updated>
+    </task>
+    <task id="LOCAL−00012" summary="pacman motion in maze">
+      <created>1672171558584</created>
+      <option name="number" value="LOCAL−00012" />
+      <option name="presentableId" value="LOCAL−00012" />
+      <updated>1672171558584</updated>
+    </task>
+    <task id="LOCAL−00013" summary="pacman motion in maze continued, refactoring">
+      <created>1672173195828</created>
+      <option name="number" value="LOCAL−00013" />
+      <option name="presentableId" value="LOCAL−00013" />
+      <updated>1672173195828</updated>
+    </task>
+    <task id="LOCAL−00014" summary="refactor, extracted motionbehavior">
+      <created>1672182949240</created>
+      <option name="number" value="LOCAL−00014" />
+      <option name="presentableId" value="LOCAL−00014" />
+      <updated>1672182949240</updated>
+    </task>
+    <task id="LOCAL−00015" summary="added lbgdx">
+      <created>1672185616100</created>
+      <option name="number" value="LOCAL−00015" />
+      <option name="presentableId" value="LOCAL−00015" />
+      <updated>1672185616100</updated>
+    </task>
+    <task id="LOCAL−00016" summary="a* implementation for ghost ai">
+      <created>1672195798692</created>
+      <option name="number" value="LOCAL−00016" />
+      <option name="presentableId" value="LOCAL−00016" />
+      <updated>1672195798692</updated>
+    </task>
+    <task id="LOCAL−00017" summary="a* optimization and cleanup">
+      <created>1672231621784</created>
+      <option name="number" value="LOCAL−00017" />
+      <option name="presentableId" value="LOCAL−00017" />
+      <updated>1672231621784</updated>
+    </task>
+    <task id="LOCAL−00018" summary="maze rendering">
+      <created>1672236112378</created>
+      <option name="number" value="LOCAL−00018" />
+      <option name="presentableId" value="LOCAL−00018" />
+      <updated>1672236112378</updated>
+    </task>
+    <task id="LOCAL−00019" summary="position maze on screen">
+      <created>1672236327402</created>
+      <option name="number" value="LOCAL−00019" />
+      <option name="presentableId" value="LOCAL−00019" />
+      <updated>1672236327402</updated>
+    </task>
+    <task id="LOCAL−00020" summary="pill position iterators">
+      <created>1672237623920</created>
+      <option name="number" value="LOCAL−00020" />
+      <option name="presentableId" value="LOCAL−00020" />
+      <updated>1672237623920</updated>
+    </task>
+    <task id="LOCAL−00021" summary="ghosts have maze position, fix pacman motion command handling allowing&#10;quick direction reversal.">
+      <created>1672242977970</created>
+      <option name="number" value="LOCAL−00021" />
+      <option name="presentableId" value="LOCAL−00021" />
+      <updated>1672242977970</updated>
+    </task>
+    <task id="LOCAL−00022" summary="add collision handling to gamestate">
+      <created>1672243513857</created>
+      <option name="number" value="LOCAL−00022" />
+      <option name="presentableId" value="LOCAL−00022" />
+      <updated>1672243513857</updated>
+    </task>
+    <task id="LOCAL−00023" summary="reorganizing">
+      <created>1672243952276</created>
+      <option name="number" value="LOCAL−00023" />
+      <option name="presentableId" value="LOCAL−00023" />
+      <updated>1672243952276</updated>
+    </task>
+    <task id="LOCAL−00024" summary="scared ghost rendering">
+      <created>1672247867706</created>
+      <option name="number" value="LOCAL−00024" />
+      <option name="presentableId" value="LOCAL−00024" />
+      <updated>1672247867706</updated>
+    </task>
+    <task id="LOCAL−00025" summary="animated image framefrate fix">
+      <created>1672248360843</created>
+      <option name="number" value="LOCAL−00025" />
+      <option name="presentableId" value="LOCAL−00025" />
+      <updated>1672248360843</updated>
+    </task>
+    <task id="LOCAL−00026" summary="pacman seeking behavior">
+      <created>1672250364149</created>
+      <option name="number" value="LOCAL−00026" />
+      <option name="presentableId" value="LOCAL−00026" />
+      <updated>1672250364149</updated>
+    </task>
+    <task id="LOCAL−00027" summary="ghost motion test">
+      <created>1672253574853</created>
+      <option name="number" value="LOCAL−00027" />
+      <option name="presentableId" value="LOCAL−00027" />
+      <updated>1672253574853</updated>
+    </task>
+    <task id="LOCAL−00028" summary="ghost motion test refactored, asserts motion direction animation">
+      <created>1672255277562</created>
+      <option name="number" value="LOCAL−00028" />
+      <option name="presentableId" value="LOCAL−00028" />
+      <updated>1672255277562</updated>
+    </task>
+    <task id="LOCAL−00029" summary="refactor, simplify MotionBehavior">
+      <created>1672270210533</created>
+      <option name="number" value="LOCAL−00029" />
+      <option name="presentableId" value="LOCAL−00029" />
+      <updated>1672270210533</updated>
+    </task>
+    <task id="LOCAL−00030" summary="objectlocation that tracks both screen and maze coordinates">
+      <created>1672272688779</created>
+      <option name="number" value="LOCAL−00030" />
+      <option name="presentableId" value="LOCAL−00030" />
+      <updated>1672272688779</updated>
+    </task>
+    <task id="LOCAL−00031" summary="seekingbehavior refactored">
+      <created>1672273907745</created>
+      <option name="number" value="LOCAL−00031" />
+      <option name="presentableId" value="LOCAL−00031" />
+      <updated>1672273907745</updated>
+    </task>
+    <task id="LOCAL−00032" summary="evasive behavior">
+      <created>1672281625711</created>
+      <option name="number" value="LOCAL−00032" />
+      <option name="presentableId" value="LOCAL−00032" />
+      <updated>1672281625711</updated>
+    </task>
+    <task id="LOCAL−00033" summary="relentless refactoring">
+      <created>1672307973183</created>
+      <option name="number" value="LOCAL−00033" />
+      <option name="presentableId" value="LOCAL−00033" />
+      <updated>1672307973183</updated>
+    </task>
+    <task id="LOCAL−00034" summary="reduced compiler warnings">
+      <created>1672308385043</created>
+      <option name="number" value="LOCAL−00034" />
+      <option name="presentableId" value="LOCAL−00034" />
+      <updated>1672308385043</updated>
+    </task>
+    <task id="LOCAL−00035" summary="test evasive behavior">
+      <created>1672309251480</created>
+      <option name="number" value="LOCAL−00035" />
+      <option name="presentableId" value="LOCAL−00035" />
+      <updated>1672309251480</updated>
+    </task>
+    <task id="LOCAL−00036" summary="reformatted code">
+      <created>1672309842051</created>
+      <option name="number" value="LOCAL−00036" />
+      <option name="presentableId" value="LOCAL−00036" />
+      <updated>1672309842051</updated>
+    </task>
+    <task id="LOCAL−00037" summary="screenshot test to cover app class">
+      <created>1672315914408</created>
+      <option name="number" value="LOCAL−00037" />
+      <option name="presentableId" value="LOCAL−00037" />
+      <updated>1672315914408</updated>
+    </task>
+    <task id="LOCAL−00038" summary="death animation">
+      <created>1672318091257</created>
+      <option name="number" value="LOCAL−00038" />
+      <option name="presentableId" value="LOCAL−00038" />
+      <updated>1672318091257</updated>
+    </task>
+    <task id="LOCAL−00039" summary="reset game after pacman died">
+      <created>1672336310369</created>
+      <option name="number" value="LOCAL−00039" />
+      <option name="presentableId" value="LOCAL−00039" />
+      <updated>1672336310369</updated>
+    </task>
+    <task id="LOCAL−00040" summary="center rendering to screen">
+      <created>1672337524365</created>
+      <option name="number" value="LOCAL−00040" />
+      <option name="presentableId" value="LOCAL−00040" />
+      <updated>1672337524365</updated>
+    </task>
+    <task id="LOCAL−00041" summary="disable gui test for action test">
+      <created>1672338631586</created>
+      <option name="number" value="LOCAL−00041" />
+      <option name="presentableId" value="LOCAL−00041" />
+      <updated>1672338631586</updated>
+    </task>
+    <task id="LOCAL−00042" summary="render score and lives">
+      <created>1672400504575</created>
+      <option name="number" value="LOCAL−00042" />
+      <option name="presentableId" value="LOCAL−00042" />
+      <updated>1672400504575</updated>
+    </task>
+    <task id="LOCAL−00043" summary="refactored game state tests to be simpler, some added tests">
+      <created>1672492141296</created>
+      <option name="number" value="LOCAL−00043" />
+      <option name="presentableId" value="LOCAL−00043" />
+      <updated>1672492141296</updated>
+    </task>
+    <task id="LOCAL−00044" summary="started sketching blog, some refactoring">
+      <created>1672664219882</created>
+      <option name="number" value="LOCAL−00044" />
+      <option name="presentableId" value="LOCAL−00044" />
+      <updated>1672664219882</updated>
+    </task>
+    <task id="LOCAL−00045" summary="removed app test">
+      <created>1672738844201</created>
+      <option name="number" value="LOCAL−00045" />
+      <option name="presentableId" value="LOCAL−00045" />
+      <updated>1672738844201</updated>
+    </task>
+    <task id="LOCAL−00046" summary="add macos spesific dependency to fix threading&#10;issue">
+      <created>1672748514074</created>
+      <option name="number" value="LOCAL−00046" />
+      <option name="presentableId" value="LOCAL−00046" />
+      <updated>1672748514074</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add collision handling to gamestate" />
+    <MESSAGE value="reorganizing" />
+    <MESSAGE value="scared ghost rendering" />
+    <MESSAGE value="animated image framefrate fix" />
+    <MESSAGE value="pacman seeking behavior" />
+    <MESSAGE value="ghost motion test" />
+    <MESSAGE value="ghost motion test refactored, asserts motion direction animation" />
+    <MESSAGE value="refactor, simplify MotionBehavior" />
+    <MESSAGE value="objectlocation that tracks both screen and maze coordinates" />
+    <MESSAGE value="seekingbehavior refactored" />
+    <MESSAGE value="evasive behavior" />
+    <MESSAGE value="relentless refactoring" />
+    <MESSAGE value="reduced compiler warnings" />
+    <MESSAGE value="test evasive behavior" />
+    <MESSAGE value="reformatted code" />
+    <MESSAGE value="screenshot test to cover app class" />
+    <MESSAGE value="death animation" />
+    <MESSAGE value="reset game after pacman died" />
+    <MESSAGE value="center rendering to screen" />
+    <MESSAGE value="disable gui test for action test" />
+    <MESSAGE value="render score and lives" />
+    <MESSAGE value="refactored game state tests to be simpler, some added tests" />
+    <MESSAGE value="started sketching blog, some refactoring" />
+    <MESSAGE value="removed app test" />
+    <MESSAGE value="add macos spesific dependency to fix threading&#10;issue" />
+    <option name="LAST_COMMIT_MESSAGE" value="add macos spesific dependency to fix threading&#10;issue" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pacman$Tests_in__pacman_test_.ic" NAME="Tests in 'pacman.test' Coverage Results" MODIFIED="1672252967944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/pacman$Launcher.ic" NAME="Launcher Coverage Results" MODIFIED="1672654591202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.cloudamite.pacman.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/pacman$Tests_in__com_cloudamite_pacman_game_.ic" NAME="Tests in 'com.cloudamite.pacman.game' Coverage Results" MODIFIED="1672738673860" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/pacman$GhostMotionTests.ic" NAME="GhostMotionTests Coverage Results" MODIFIED="1672663488103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/pacman$Tests_in__com_cloudamite_pacman_.ic" NAME="Tests in 'com.cloudamite.pacman' Coverage Results" MODIFIED="1672690800421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

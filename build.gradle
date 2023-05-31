@@ -1,0 +1,36 @@
+plugins {
+    id 'application'
+    id 'jacoco'
+}
+
+group 'com.cloudamite'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation 'com.badlogicgames.gdx:gdx:1.11.0'
+    implementation 'com.badlogicgames.gdx:gdx-platform:1.11.0:natives-desktop'
+    implementation 'com.badlogicgames.gdx:gdx-freetype:1.11.0'
+    implementation 'com.badlogicgames.gdx:gdx-freetype-platform:1.11.0:natives-desktop'
+    implementation 'com.badlogicgames.gdx:gdx-backend-lwjgl3:1.11.0'
+    implementation 'com.badlogicgames.gdx:gdx-lwjgl3-glfw-awt-macos:1.11.0'
+
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
+}
+
+application {
+    mainClass = 'com.cloudamite.pacman.Launcher'
+}
+
+jacocoTestReport {
+    dependsOn test
+}
+
+test {
+    useJUnitPlatform()
+    finalizedBy jacocoTestReport
+}
